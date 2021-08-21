@@ -137,3 +137,7 @@ while True:
 
     else:
         print("nah mate")
+
+# figure out why its being weird on line 100ish
+# add functionality
+# add options for more tanks
